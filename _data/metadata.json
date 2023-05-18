@@ -1,5 +1,5 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "Set your OG title",
   "url": "https://update-me.com",
   "domain": "update-me.com",
   "description": "Description of the website. Update me.",
@@ -17,7 +17,7 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
+    "name": "Niño Posiquit",
     "twitterHandle": "update_me"
   },
   "publisher": {
