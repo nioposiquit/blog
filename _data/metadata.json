@@ -1,8 +1,8 @@
 {
-  "title": "Set your OG title",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "title": "Hey this is onion",
+  "url": "https://blog-nioposiquit.vercel.app",
+  "domain": "blog-nioposiquit.vercel.app",
+  "description": "And this is some website i am playing with",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
@@ -18,9 +18,9 @@
   },
   "author": {
     "name": "Niño Posiquit",
-    "twitterHandle": "update_me"
+    "twitterHandle": "nio_grande"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "ChatGPT"
   }
 }
